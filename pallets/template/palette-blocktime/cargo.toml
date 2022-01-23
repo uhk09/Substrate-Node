@@ -1,13 +1,13 @@
 [package]
-name = "pallet-template"
+name = "palette-blocktime"
 version = "4.0.0-dev"
-description = "FRAME pallet template for defining custom runtime logic."
-authors = ["Substrate DevHub <https://github.com/substrate-developer-hub>"]
+description = "Returns the time  of the newest produced block in the blockchain."
+authors = ["Uhk09 <https://github.com/uhk09>"]
 homepage = "https://substrate.io/"
 edition = "2018"
 license = "Unlicense"
 publish = false
-repository = "https://github.com/substrate-developer-hub/substrate-node-template/"
+repository = "https://github.com/uhk09/Substrate-Node"
 
 [package.metadata.docs.rs]
 targets = ["x86_64-unknown-linux-gnu"]
